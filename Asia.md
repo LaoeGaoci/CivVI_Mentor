@@ -1,5 +1,4 @@
-# 《文明VI》亚洲文明MOD编写指南
-
+# 如何定义一个自定义的文明
 ## 1. 简介
 
 如何定义一个新的文明——亚洲文明（CIVILIZATION_ASIA），并为其添加特性、领袖、城市名称、公民名称、起始地形偏好等。
@@ -148,8 +147,17 @@
 
 ```xml
 <CityNames>
+    <!--  亚洲文明的城市名称  -->
     <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_BEIJING"/>
     <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_SHANGHAI"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_TOKYO"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_DELHI"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_SEOUL"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_BANGKOK"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_HANOI"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_MANILA"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_KUALA_LUMPUR"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_SINGAPORE"/>
 </CityNames>
 ```
 
