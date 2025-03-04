@@ -11,8 +11,8 @@
 - 📌 [定义区域](District.md) – 介绍示例中的区域（District），包括区域的作用。
 - 📌 [配置文件](config.md) – 配置文件，涉及 Mod 配置，可直观的体现在领袖选择界面上。
 - 📌 [定义领袖](leader.md) – 介绍领袖信息，包括领袖的定义与特色能力。
-- 📌 [区域模型](https://www.bilibili.com/video/BV1r64y1F7Eb/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4a356496f4fa4b33e77c3385106db1ba)区域模型(District.artdef)可以参考Hemmelfort先生在B站的视频
-- 📌 [外交界面领袖前身像](https://www.bilibili.com/video/BV1St411S7gf/?spm_id_from=333.337.search-card.all.click&vd_source=4a356496f4fa4b33e77c3385106db1ba)(LeaderFallback.artdef)可以参考Hemmelfort先生在B站的视频（12：42~14：08）
+- 📌 [区域模型](https://www.bilibili.com/video/BV1r64y1F7Eb/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4a356496f4fa4b33e77c3385106db1ba) - District.artdef可以参考Hemmelfort先生在B站的视频
+- 📌 [外交界面领袖前身像](https://www.bilibili.com/video/BV1St411S7gf/?spm_id_from=333.337.search-card.all.click&vd_source=4a356496f4fa4b33e77c3385106db1ba) - LeaderFallback.artdef可以参考Hemmelfort先生在B站的视频（12：42~14：08）
 ## 🤔补充
 - [Hemmelfort先生的文明6mod制作APP](https://hemmelfort.github.io/civ6/civ6ma/),可以帮助你制作.dds,.Art.xml文件
 - Hemmelfort先生的APP，在我的教学示例制作过程中生成.Art.xml会存在一些问题
