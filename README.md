@@ -14,8 +14,8 @@
 ## 🤔补充
 - [Hemmelfort先生的文明6mod制作APP](https://hemmelfort.github.io/civ6/civ6ma/),可以帮助你制作.dds,.Art.xml文件
 - Hemmelfort先生的APP，在我的教学示例制作过程中生成.Art.xml会存在一些问题
-  - District.artdef文件没有加载进去
-  - <AssetObjects..GameArtSpecification></AssetObjects..GameArtSpecification>根节点存在拼写的问题
+  - District.artdef文件没有加载进去，使得在.artdef文件没有问题的情况下游戏中没有显示模型
+  - <AssetObjects..GameArtSpecification></AssetObjects..GameArtSpecification>根节点存在拼写的问题（这个并不影响）
 ## 📜 贡献
 
 我后续会按照教学示例来更新该教程，欢迎对本项目进行改进！如果有任何建议或补充内容，请提交 Issue 或 Pull Request。
