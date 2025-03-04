@@ -148,8 +148,17 @@
 
 ```xml
 <CityNames>
+    <!--  亚洲文明的城市名称  -->
     <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_BEIJING"/>
     <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_SHANGHAI"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_TOKYO"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_DELHI"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_SEOUL"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_BANGKOK"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_HANOI"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_MANILA"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_KUALA_LUMPUR"/>
+    <Row CivilizationType="CIVILIZATION_ASIA" CityName="LOC_CITY_NAME_SINGAPORE"/>
 </CityNames>
 ```
 
