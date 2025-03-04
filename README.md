@@ -8,7 +8,7 @@
 
 - 📌 [Asia_Info.md](Asia_Info.md) – 介绍教学示例（Asia_League）的相关内容。
 - 📌 [定义文明](Define_Asia.md) – 介绍示例中文明、领袖和相关设定。
-- 📌 [定义区域d](District.md) – 介绍示例中的区域（District），包括区域的作用。
+- 📌 [定义区域](District.md) – 介绍示例中的区域（District），包括区域的作用。
 - 📌 [配置文件](config.md) – 配置文件，涉及 Mod 配置，可直观的体现在领袖选择界面上。
 - 📌 [定义领袖](leader.md) – 介绍领袖信息，包括领袖的定义与特色能力。
 ## 🤔补充
