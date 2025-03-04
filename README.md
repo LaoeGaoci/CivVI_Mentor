@@ -16,6 +16,10 @@
 - Hemmelfort先生的APP，在我的教学示例制作过程中生成.Art.xml会存在一些问题
   - District.artdef文件没有加载进去，使得在.artdef文件没有问题的情况下游戏中没有显示模型
   - <AssetObjects..GameArtSpecification></AssetObjects..GameArtSpecification>根节点存在拼写的问题（这个并不影响）
+- [区域模型.artdef](https://www.bilibili.com/video/BV1r64y1F7Eb/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4a356496f4fa4b33e77c3385106db1ba)区域模型可以参考Hemmelfort先生的视频
 ## 📜 贡献
 
 我后续会按照教学示例来更新该教程，欢迎对本项目进行改进！如果有任何建议或补充内容，请提交 Issue 或 Pull Request。
+
+## 🌹致谢
+[Hemmelfort先生](https://space.bilibili.com/28399130?spm_id_from=333.337.search-card.all.click)
